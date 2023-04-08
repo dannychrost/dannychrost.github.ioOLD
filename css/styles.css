@@ -1,0 +1,31 @@
+body {
+    background-color: #F8EAD8;
+    text-align: center;
+}
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+hr {
+    color: #A7727D;
+    border-style: dashed none none;
+    border-width: 10px;
+    width: 40%;
+    
+}
+#progLangs {
+    background-color: #F9F5E7;
+    margin: 0 auto;
+}
+img {
+    height: 35%;
+    width: 35%;
+}
+#personalProjects{
+    text-align: center;
+}
+.big-break{
+    height: 20px;
+    display: block;
+    content: "";
+}
